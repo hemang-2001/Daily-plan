@@ -25,6 +25,6 @@
 ---
 
 <aside>
-<img src="Gift-duotone.png" alt="Study%20Planner%20e747708332bb419bbeaebf07374e9b70/gift-duotone.png" width="40px" /> You gonna pass your exams.
+<img "/gift-duotone.png" alt="Study%20Planner%20e747708332bb419bbeaebf07374e9b70/gift-duotone.png" width="40px" /> You gonna pass your exams.
 
 </aside>
